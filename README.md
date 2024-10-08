@@ -1,5 +1,5 @@
 ## Atmosphere Calculator
-Atmosphere Calculator is a simple Java application that calculates atmospheric properties such as temperature, pressure, and density based on a given altitude. The calculator uses standard atmospheric models to perform these calculations for altitudes ranging from sea level to 47,000 meters.
+Atmosphere Calculator is a simple Java application that calculates atmospheric properties such as temperature, pressure, and density based on a given altitude. The calculator uses standard atmospheric models to perform these calculations for altitudes ranging from sea level to 47,000 meters. This calculator was created to facilitate recurrent atmospheric calculations for a Aerospace Engineering assignment.
 
 ## Features
 
