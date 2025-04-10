@@ -20,7 +20,7 @@ This tool was developed for first-year BSc Aerospace Engineering students at TU 
 2. **Build and Run**:
    - Open the project in your favorite Java IDE
    - Compile the source code
-   - Run the '''Main.java''' class to launch the AtmosphereCalculator GUI
+   - Run the `Main.java` class to launch the AtmosphereCalculator GUI
      
 3. **Using the Application**:
    - Input the desired altitute (in meters) into the provided text field
